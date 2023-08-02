@@ -1,0 +1,18 @@
+.align {
+  display: flex;
+  flex-direction: row;
+}
+.li {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.img-logo {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+.p {
+  margin-right: 10px;
+}

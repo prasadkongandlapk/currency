@@ -1,0 +1,35 @@
+h1 {
+  color: #00e7ff;
+  text-align: center;
+}
+.card {
+  border-style: solid;
+  border-color: #00e7ff;
+  margin: 30px;
+  width: 70%;
+  border-radius: 5px;
+}
+
+.card-bar {
+  padding-left: 20px;
+  padding-right: 20px;
+  display: flex;
+  border-radius: 5px;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #092e33;
+  color: white;
+  font-weight: bold;
+}
+.usd-euro-align {
+  display: flex;
+  flex-direction: row;
+}
+.big-img {
+  height: 200px;
+  width: 500px;
+  text-align: center;
+}
+.usd {
+  margin-right: 20px;
+}
